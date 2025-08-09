@@ -1,0 +1,14 @@
+[project]
+name = "career-mentor-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "deep-translator>=1.11.4",
+    "langdetect>=1.0.9",
+    "openai-agents>=0.2.5",
+    "python-dotenv>=1.1.1",
+    "streamlit>=1.48.0",
+    "tools>=1.0.2",
+]
